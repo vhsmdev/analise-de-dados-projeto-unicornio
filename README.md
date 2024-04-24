@@ -28,9 +28,13 @@ O conjunto de dados utilizado neste projeto está disponível no arquivo `databa
 
 1. **Pré-requisitos**: Para executar o código deste projeto, é necessário ter instalado o Jupyter Notebook no seu ambiente Python.
 
-2. **Execução do Código**: Abra o arquivo `unicorn_analytics.ipynb` em um ambiente Jupyter Notebook para visualizar e executar o código.
+2. **Execução do Código**: Abra o arquivo [`unicorn_analytics.ipynb`](https://nbviewer.org/github/vhsmdev/unicorn-analytics/blob/main/Projeto_Unicornios.ipynb) em um ambiente Jupyter Notebook para visualizar e executar o código.
 
 3. **Exploração dos Dados**: Utilize o conjunto de dados `database.csv` no mesmo diretório do notebook para realizar análises adicionais ou explorar outras questões de interesse relacionadas a empresas unicórnios.
+
+## Artigo no Medium
+
+Para uma visão mais detalhada sobre este projeto, confira o [artigo no Medium](https://medium.com/@vhsmdev/explorando-o-mundo-das-startups-projeto-unicornio-d507858f3091).
 
 ## Autores
 
