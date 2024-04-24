@@ -1,7 +1,3 @@
-Claro, podemos ajustar as instruções para refletir o fato de que o código foi desenvolvido em um Jupyter Notebook. Aqui está uma versão atualizada:
-
----
-
 # Projeto Unicorn Analytics
 
 ![Unicorn Analytics](https://abstartups.com.br/wp-content/uploads/2021/01/startup-unicornio-o-que-e-730x400.png)
